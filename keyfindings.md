@@ -6,13 +6,12 @@
 - Recommendation: Tiered loyalty program prioritizing top segment
 
 ## 2. Revenue Trend
-- [Fill in your finding from the line chart]
 - Highest revenue month: [X]
 - Average order value: [X]
 
 ## 3. Product Performance  
-- Top 3 categories by revenue: [X, Y, Z]
-- [Category] has highest avg price but lower volume
+- Top 3 categories by revenue: [Intimates, Jeans, Tops and tees]
+- [Outerwear and coats] has highest avg price but lower volume
 - Recommendation: Bundle low-price high-volume items
 
 ## 4. Cohort Retention
